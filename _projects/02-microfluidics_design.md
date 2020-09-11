@@ -1,0 +1,7 @@
+---
+title: Design and usage of new microfluidics design
+# vignette: [[jonathan’s movies??]]
+collaborators: Guillaume Witz
+---
+
+Performing biology experiments in microfluidic devices remains a somewhat challenging task because of multiple technical barriers. In collaboration with Thomas Julou (UniBas), we put a constant effort in trying to improve our methods to make such experiments more accessible. One such effort is focusing on improving the design of the mother machine, a device in which cells grow in lineages in narrow channels closed at one end. One systematic problem is the loading of cells in such devices which mostly relies on diffusion. We developed a new version of that device by adding a small opening at the closed end of the growth channels and exploiting a pressure system to actively drive cells into them. The details of the device are not yet made publicly available. However, to develop that device I also wrote a small python library to create multi-layer microfluidics designs. It is still experimental but available [here](https://github.com/guiwitz/PyMicrofluidics). I also made available a minimal [example](https://github.com/guiwitz/PyMicrofluidics/blob/master/PyMicrofluidics_minimalistic.ipynb) of how to write a Jupyter file to generate a new design. If you want to use the module but are confused, don't hesitate to get in touch.

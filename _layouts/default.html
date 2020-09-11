@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content container" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    {%- if page.lightgallery -%}
+    <script src="{{ "/assets/vendor/lightgallery.js/js/lightgallery.min.js" | prepend: site.baseurl }}"></script>
+    
+    <!-- lightgallery plugins -->
+    <script src="{{ "/assets/vendor/lightgallery.js/js/lg-video.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/vendor/lightgallery.js/js/lg-hash.min.js" | prepend: site.baseurl }}"></script>
+
+    <script type="text/javascript">
+      lightGallery(document.getElementById('lightgallery'), {
+        selector: '.column>a',
+        loop: false,
+        videoMaxWidth: '1120px',
+        youtubePlayerParams: { 
+          autoplay: 0, 
+          loop: 1, 
+          modestbranding: 1, 
+          rel: 0, 
+          showinfo: 0, 
+          color: "white", 
+          disablekb: 1 
+        }
+      }); 
+    </script>
+    {%- endif -%}
+
+  </body>
+</html>

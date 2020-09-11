@@ -1,0 +1,84 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Guillaume Witz's homepage
+author: Guillaume Witz
+email: guillaume.witz@unibas.ch
+description: >- # this means to ignore newlines until "baseurl:"
+  My description.
+# Quantitative biology of microbes: from gene expression stochasticity to ecology and evolution of bacteria.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://guiwitz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-111523331-1
+twitter_username: guiwitz
+github_username:  guiwitz
+linkedin_username: guillaumewitz
+
+collections:
+- projects
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lightgallery: false
+      published: true
+  # to remove once posts are in use
+  -
+    scope:
+      path: '_posts'
+    values:
+      sitemap: false
+  -
+    scope:
+      path: '_projects'
+    values:
+      past: false
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - index.md
+ - projects.md
+ - publications.md
+ - gallery.md
+# - outputs.md
+# - resources.md
+# - notes.md
+ - contact.md
+
+
+# Build settings
+markdown: kramdown
+#theme: jekyll-skeleton
+permalink: /notes/:categories/:title.html
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

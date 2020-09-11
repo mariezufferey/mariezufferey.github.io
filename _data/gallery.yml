@@ -1,0 +1,32 @@
+# most recent first 
+# thumbnails must be 348 x 235
+
+- img: channel_ori_ftsz.jpg
+  url: https://youtu.be/pEc5hSP0rO0
+  title: Growth of E.coli in microfluidic device with oriC (red) and FtsZ (green) tags.
+  caption: >
+    Observation of *E.coli* cells growing in a microfluidics device (horizontal channels). Cells can be 
+    seen in dark blue. The origins of replication can be seen as red dots (FROS method).
+    The divisome is seen in green through the GFP tagging of FtsZ.     
+- img: coli3D.jpg
+  url: https://youtu.be/0j72DCnPLUI
+  title: 3D imaging of the E.coli nucleoid
+  caption: >
+    Reconstruction of the 3D shape of an *E.coli* nucleoid over time. 
+    
+    
+- img: AFM.jpg
+  url: https://youtu.be/6FZ5k9_6Vlw
+  title: AFM imaging
+  caption: >
+    Cartoon explaining the basic functionning of an AFM (realised with Blender).
+
+    
+- img: catenane.jpg
+  url: https://youtu.be/zHQYB_Hco1s
+  title: DNA catenane supercoiling
+  caption: >
+    DNA catenanes, two interlinked DNA molecules, arise during replication. In addition each
+    molecules gets supercoils from gyrase. This is a Brownian dynamics simulation of this process.
+
+

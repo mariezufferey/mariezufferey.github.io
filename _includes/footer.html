@@ -1,0 +1,46 @@
+<footer>
+  <div class="container">
+  <div class="one-third column">
+    <ul style="list-style: none;">
+      {%- if site.github_username -%}
+      <li>
+        <a style="text-decoration: none;" href="https://github.com/{{ site.github_username }}">
+          <span>{% include icon_github.svg %}</span>
+          <span>Github</span>
+        </a>
+      </li>
+      {%- endif -%}
+
+      {%- if site.twitter_username -%}
+      <li>
+        <a style="text-decoration: none;" href="https://twitter.com/{{ site.twitter_username }}">
+          <span>{% include icon_twitter.svg %}</span>
+          <span>Twitter</span>
+        </a>
+      </li>
+      {%- endif -%}
+
+      {%- if site.linkedin_username -%}
+      <li>
+        <a style="text-decoration: none;" href="https://linkedin.com/in/{{ site.linkedin_username }}">
+          <span>{% include icon_linkedin.svg %}</span>
+          <span>Linkedin</span>
+        </a>
+      </li>
+      {%- endif -%}
+    </ul>
+  </div>
+
+  <div class="two-thirds column">
+    <p>
+      <a class="cc-logo" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        {% include icon_cc.svg %}
+        {% include icon_cc-by.svg %}
+        {% include icon_cc-sa.svg %}
+      </a> 
+  Guillaume Witz 2017.
+  Powered by <a href="https://jekyllrb.com">Jekyll</a>. 
+  Hosted on <a href="https://github.com/guiwitz/guiwitz.github.io">Github Pages</a>.
+    </p>
+  </div>
+</footer>
