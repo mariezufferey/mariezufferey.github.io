@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Guillaume Witz's homepage
-author: Guillaume Witz
-email: guillaume.witz@unibas.ch
+title: Marie Zufferey's homepage
+author: Marie Zufferey
+email: zufferey.marie@bluewin.ch
 description: >- # this means to ignore newlines until "baseurl:"
   My description.
 # Quantitative biology of microbes: from gene expression stochasticity to ecology and evolution of bacteria.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guiwitz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: UA-111523331-1
-twitter_username: guiwitz
-github_username:  guiwitz
-linkedin_username: guillaumewitz
+url: "https://mariezufferey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#google_analytics: UA-111523331-1
+#twitter_username: guiwitz
+github_username:  mariezufferey
+#linkedin_username: guillaumewitz
 
 collections:
 - projects
@@ -55,7 +55,7 @@ header_pages:
  - index.md
  - projects.md
  - publications.md
- - gallery.md
+# - gallery.md
 # - outputs.md
 # - resources.md
 # - notes.md
