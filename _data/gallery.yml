@@ -9,28 +9,3 @@
     
 
 
-<!-- 
-
-- img: coli3D.jpg
-  url: https://youtu.be/0j72DCnPLUI
-  title: 3D imaging of the E.coli nucleoid
-  caption: >
-    Reconstruction of the 3D shape of an *E.coli* nucleoid over time. 
-    
-    
-- img: AFM.jpg
-  url: https://youtu.be/6FZ5k9_6Vlw
-  title: AFM imaging
-  caption: >
-    Cartoon explaining the basic functionning of an AFM (realised with Blender).
-
-    
-- img: catenane.jpg
-  url: https://youtu.be/zHQYB_Hco1s
-  title: DNA catenane supercoiling
-  caption: >
-    DNA catenanes, two interlinked DNA molecules, arise during replication. In addition each
-    molecules gets supercoils from gyrase. This is a Brownian dynamics simulation of this process.
-
-
--->
