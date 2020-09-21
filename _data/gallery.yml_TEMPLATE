@@ -1,0 +1,27 @@
+# most recent first 
+# thumbnails must be 348 x 235
+
+- img: cactus.jpg
+  url: https://www.youtube.com/watch?v=I8W4LyIXINE
+  title: Blossom
+  caption: >
+    Cactus flowers !
+    
+
+- img: Gymnocalycium_baldianum.JPG
+  url: /assets/gallery/thumbnails/Gymnocalycium_baldianum.JPG
+  title: Gymnocalycium baldianum
+  caption: >
+    Gymnocalycium baldianum
+    
+
+
+- img: Mammillaria_theresae.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_theresae.JPG
+  title: Mammillaria theresae
+  caption: >
+    Mammillaria theresae
+    
+
+
+

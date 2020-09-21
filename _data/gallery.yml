@@ -1,27 +1,60 @@
-# most recent first 
-# thumbnails must be 348 x 235
-
 - img: cactus.jpg
   url: https://www.youtube.com/watch?v=I8W4LyIXINE
   title: Blossom
   caption: >
     Cactus flowers !
-    
-
+- img: Aztekium_ritteri.JPG
+  url: /assets/gallery/thumbnails/Aztekium_ritteri.JPG
+  title: Aztekium ritteri
+  caption: >
+    Aztekium ritteri
+- img: Chileorebutia_carneoflora.JPG
+  url: /assets/gallery/thumbnails/Chileorebutia_carneoflora.JPG
+  title: Chileorebutia carneoflora
+  caption: >
+    Chileorebutia carneoflora
+- img: Echinocereus_gentryi.JPG
+  url: /assets/gallery/thumbnails/Echinocereus_gentryi.JPG
+  title: Echinocereus gentryi
+  caption: >
+    Echinocereus gentryi
+- img: Escobaria_nelliae.JPG
+  url: /assets/gallery/thumbnails/Escobaria_nelliae.JPG
+  title: Escobaria nelliae
+  caption: >
+    Escobaria nelliae
 - img: Gymnocalycium_baldianum.JPG
   url: /assets/gallery/thumbnails/Gymnocalycium_baldianum.JPG
   title: Gymnocalycium baldianum
   caption: >
     Gymnocalycium baldianum
-    
-
-
+- img: Gymnocalycium_tilcarense.JPG
+  url: /assets/gallery/thumbnails/Gymnocalycium_tilcarense.JPG
+  title: Gymnocalycium tilcarense
+  caption: >
+    Gymnocalycium tilcarense
+- img: Lobivia_pusilla.JPG
+  url: /assets/gallery/thumbnails/Lobivia_pusilla.JPG
+  title: Lobivia pusilla
+  caption: >
+    Lobivia pusilla
 - img: Mammillaria_theresae.JPG
   url: /assets/gallery/thumbnails/Mammillaria_theresae.JPG
   title: Mammillaria theresae
   caption: >
     Mammillaria theresae
-    
-
-
-
+- img: Rebutia_nivosa.JPG
+  url: /assets/gallery/thumbnails/Rebutia_nivosa.JPG
+  title: Rebutia nivosa
+  caption: >
+    Rebutia nivosa
+- img: Rebutia_pygmaea.JPG
+  url: /assets/gallery/thumbnails/Rebutia_pygmaea.JPG
+  title: Rebutia pygmaea
+  caption: >
+    Rebutia pygmaea
+- img: Turbinicarpus_swobodae.JPG
+  url: /assets/gallery/thumbnails/Turbinicarpus_swobodae.JPG
+  title: Turbinicarpus swobodae
+  caption: >
+    Turbinicarpus swobodae
