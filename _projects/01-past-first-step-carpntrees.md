@@ -5,7 +5,7 @@ collaborators: Marie Zufferey
 past: true
 ---
 
-### Building a consensus tree from Ancient and Recent Phylogenies (CARP) 
+Building a consensus tree from Ancient and Recent Phylogenies (CARP) 
 
 (under the supervision of Dr. Elsa Guillot and Prof. Marc Robinson-Rechavi - UNIL DEE)
 

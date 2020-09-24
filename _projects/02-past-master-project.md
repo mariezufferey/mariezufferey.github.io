@@ -6,7 +6,7 @@ past: true
 ---
 
 
-### Master project: A strategy to detect adaptive introgression in clinal populations
+A strategy to detect adaptive introgression in clinal populations
 
 (under the supervision of Dr. Nils Arrigo - UNIL DEE)
 
