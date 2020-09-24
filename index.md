@@ -11,6 +11,8 @@ permalink: /
 - [other blog](http://ideesdurables.github.io) with gardening stuff (in construction)
 
 
+Comments and suggestions always welcome !
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pEc5hSP0rO0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
  
 {%- comment -%}
