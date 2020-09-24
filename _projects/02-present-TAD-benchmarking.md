@@ -1,5 +1,5 @@
 ---
-title: Benchmark of TAD callers
+title: PhD - Benchmark of TAD callers
 # vignette: [[jonathan’s movies??]]
 collaborators: Marie Zufferey
 past: false

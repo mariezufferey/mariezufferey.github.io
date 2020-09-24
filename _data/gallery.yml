@@ -1,8 +1,3 @@
-- img: cactus.jpg
-  url: https://www.youtube.com/watch?v=I8W4LyIXINE
-  title: Blossom
-  caption: >
-    Cactus flowers !
 - img: Aztekium_ritteri.JPG
   url: /assets/gallery/thumbnails/Aztekium_ritteri.JPG
   title: Aztekium ritteri
@@ -58,3 +53,8 @@
   title: Turbinicarpus swobodae
   caption: >
     Turbinicarpus swobodae
+- img: cactus.jpg
+  url: https://www.youtube.com/watch?v=I8W4LyIXINE
+  title: Blossom
+  caption: >
+    Cactus flowers !

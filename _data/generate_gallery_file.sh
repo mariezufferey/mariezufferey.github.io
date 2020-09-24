@@ -7,15 +7,6 @@ new_out_file="gallery.yml"
 
 rm -f $new_out_file
 
-cat >> ${new_out_file} <<- EOM
-	- img: cactus.jpg
-	  url: https://www.youtube.com/watch?v=I8W4LyIXINE
-	  title: Blossom
-	  caption: >
-	    Cactus flowers !
-EOM
-
-
 # retrieve which file
 
 all_files=( $( ls ../assets/gallery/thumbnails/*JPG) )
@@ -41,6 +32,14 @@ for myf in ${all_files[@]}; do
 
 done
 
+
+cat >> ${new_out_file} <<- EOM
+	- img: cactus.jpg
+	  url: https://www.youtube.com/watch?v=I8W4LyIXINE
+	  title: Blossom
+	  caption: >
+	    Cactus flowers !
+EOM
 
 #    
 #    

@@ -1,11 +1,11 @@
 ---
-title: Shiny app for comparison of TAD partitions
+title: PhD - Shiny app for the comparison of TAD partitions
 # vignette: [[jonathan’s movies??]]
 collaborators: Marie Zufferey
 past: true
 ---
 
-### Tool for comparing genome partition into TADs 
+### Online tool for comparing genome partition into TADs 
 
 https://comparetadpartitions.shinyapps.io/tadcomp/
 
