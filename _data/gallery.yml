@@ -1,3 +1,13 @@
+- img: Agave_victoriae-reginae.JPG
+  url: /assets/gallery/thumbnails/Agave_victoriae-reginae.JPG
+  title: Agave victoriae-reginae
+  caption: >
+    Agave victoriae-reginae
+- img: Ancistrocactus_uncinatus.JPG
+  url: /assets/gallery/thumbnails/Ancistrocactus_uncinatus.JPG
+  title: Ancistrocactus uncinatus
+  caption: >
+    Ancistrocactus uncinatus
 - img: Aztekium_ritteri.JPG
   url: /assets/gallery/thumbnails/Aztekium_ritteri.JPG
   title: Aztekium ritteri
@@ -8,11 +18,31 @@
   title: Chileorebutia carneoflora
   caption: >
     Chileorebutia carneoflora
+- img: Delosperma_echinatum.JPG
+  url: /assets/gallery/thumbnails/Delosperma_echinatum.JPG
+  title: Delosperma echinatum
+  caption: >
+    Delosperma echinatum
 - img: Echinocereus_gentryi.JPG
   url: /assets/gallery/thumbnails/Echinocereus_gentryi.JPG
   title: Echinocereus gentryi
   caption: >
     Echinocereus gentryi
+- img: Echinocereus_viridiflorus.JPG
+  url: /assets/gallery/thumbnails/Echinocereus_viridiflorus.JPG
+  title: Echinocereus viridiflorus
+  caption: >
+    Echinocereus viridiflorus
+- img: Echinopsis_subdenudata_cv_Fuzzy_Navel.JPG
+  url: /assets/gallery/thumbnails/Echinopsis_subdenudata_cv_Fuzzy_Navel.JPG
+  title: Echinopsis subdenudata cv Fuzzy Navel
+  caption: >
+    Echinopsis subdenudata cv Fuzzy Navel
+- img: Escobaria_lloydii.JPG
+  url: /assets/gallery/thumbnails/Escobaria_lloydii.JPG
+  title: Escobaria lloydii
+  caption: >
+    Escobaria lloydii
 - img: Escobaria_nelliae.JPG
   url: /assets/gallery/thumbnails/Escobaria_nelliae.JPG
   title: Escobaria nelliae
@@ -23,21 +53,106 @@
   title: Gymnocalycium baldianum
   caption: >
     Gymnocalycium baldianum
+- img: Gymnocalycium_sp.JPG
+  url: /assets/gallery/thumbnails/Gymnocalycium_sp.JPG
+  title: Gymnocalycium sp
+  caption: >
+    Gymnocalycium sp
+- img: Gymnocalycium_stellatum.JPG
+  url: /assets/gallery/thumbnails/Gymnocalycium_stellatum.JPG
+  title: Gymnocalycium stellatum
+  caption: >
+    Gymnocalycium stellatum
 - img: Gymnocalycium_tilcarense.JPG
   url: /assets/gallery/thumbnails/Gymnocalycium_tilcarense.JPG
   title: Gymnocalycium tilcarense
   caption: >
     Gymnocalycium tilcarense
+- img: Huernia_hystrix.JPG
+  url: /assets/gallery/thumbnails/Huernia_hystrix.JPG
+  title: Huernia hystrix
+  caption: >
+    Huernia hystrix
+- img: Lithops_sp_white.JPG
+  url: /assets/gallery/thumbnails/Lithops_sp_white.JPG
+  title: Lithops sp white
+  caption: >
+    Lithops sp white
+- img: Lithops_sp_yellow.JPG
+  url: /assets/gallery/thumbnails/Lithops_sp_yellow.JPG
+  title: Lithops sp yellow
+  caption: >
+    Lithops sp yellow
 - img: Lobivia_pusilla.JPG
   url: /assets/gallery/thumbnails/Lobivia_pusilla.JPG
   title: Lobivia pusilla
   caption: >
     Lobivia pusilla
+- img: Mammillaria_bocasana_multilanata.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_bocasana_multilanata.JPG
+  title: Mammillaria bocasana multilanata
+  caption: >
+    Mammillaria bocasana multilanata
+- img: Mammillaria_camptotricha.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_camptotricha.JPG
+  title: Mammillaria camptotricha
+  caption: >
+    Mammillaria camptotricha
+- img: Mammillaria_carmenae.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_carmenae.JPG
+  title: Mammillaria carmenae
+  caption: >
+    Mammillaria carmenae
+- img: Mammillaria_chinocephala.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_chinocephala.JPG
+  title: Mammillaria chinocephala
+  caption: >
+    Mammillaria chinocephala
+- img: Mammillaria_painteri.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_painteri.JPG
+  title: Mammillaria painteri
+  caption: >
+    Mammillaria painteri
+- img: Mammillaria_pringlei.JPG
+  url: /assets/gallery/thumbnails/Mammillaria_pringlei.JPG
+  title: Mammillaria pringlei
+  caption: >
+    Mammillaria pringlei
 - img: Mammillaria_theresae.JPG
   url: /assets/gallery/thumbnails/Mammillaria_theresae.JPG
   title: Mammillaria theresae
   caption: >
     Mammillaria theresae
+- img: Monadenium_ritchei.JPG
+  url: /assets/gallery/thumbnails/Monadenium_ritchei.JPG
+  title: Monadenium ritchei
+  caption: >
+    Monadenium ritchei
+- img: Neochilenia_paucicostata.JPG
+  url: /assets/gallery/thumbnails/Neochilenia_paucicostata.JPG
+  title: Neochilenia paucicostata
+  caption: >
+    Neochilenia paucicostata
+- img: Notocactus_ottonis.JPG
+  url: /assets/gallery/thumbnails/Notocactus_ottonis.JPG
+  title: Notocactus ottonis
+  caption: >
+    Notocactus ottonis
+- img: Opuntia_microdasys.JPG
+  url: /assets/gallery/thumbnails/Opuntia_microdasys.JPG
+  title: Opuntia microdasys
+  caption: >
+    Opuntia microdasys
+- img: Pelecyphora_valderiana.JPG
+  url: /assets/gallery/thumbnails/Pelecyphora_valderiana.JPG
+  title: Pelecyphora valderiana
+  caption: >
+    Pelecyphora valderiana
+- img: Pilocanthus_paradinei.JPG
+  url: /assets/gallery/thumbnails/Pilocanthus_paradinei.JPG
+  title: Pilocanthus paradinei
+  caption: >
+    Pilocanthus paradinei
 - img: Rebutia_nivosa.JPG
   url: /assets/gallery/thumbnails/Rebutia_nivosa.JPG
   title: Rebutia nivosa
@@ -48,6 +163,56 @@
   title: Rebutia pygmaea
   caption: >
     Rebutia pygmaea
+- img: Rebutia_sp.JPG
+  url: /assets/gallery/thumbnails/Rebutia_sp.JPG
+  title: Rebutia sp
+  caption: >
+    Rebutia sp
+- img: Rechsteinera_leucotricha.JPG
+  url: /assets/gallery/thumbnails/Rechsteinera_leucotricha.JPG
+  title: Rechsteinera leucotricha
+  caption: >
+    Rechsteinera leucotricha
+- img: Sedum_hintonii.JPG
+  url: /assets/gallery/thumbnails/Sedum_hintonii.JPG
+  title: Sedum hintonii
+  caption: >
+    Sedum hintonii
+- img: Senecio
+  url: /assets/gallery/thumbnails/Senecio
+  title: Senecio
+  caption: >
+    Senecio
+- img: mweroensis.JPG
+  url: /assets/gallery/thumbnails/mweroensis.JPG
+  title: mweroensis
+  caption: >
+    mweroensis
+- img: Sulcorebutia_aranacea.JPG
+  url: /assets/gallery/thumbnails/Sulcorebutia_aranacea.JPG
+  title: Sulcorebutia aranacea
+  caption: >
+    Sulcorebutia aranacea
+- img: Turbinicarpus_alonsoi.JPG
+  url: /assets/gallery/thumbnails/Turbinicarpus_alonsoi.JPG
+  title: Turbinicarpus alonsoi
+  caption: >
+    Turbinicarpus alonsoi
+- img: Turbinicarpus_jauernigii.JPG
+  url: /assets/gallery/thumbnails/Turbinicarpus_jauernigii.JPG
+  title: Turbinicarpus jauernigii
+  caption: >
+    Turbinicarpus jauernigii
+- img: Turbinicarpus_krainzianus.JPG
+  url: /assets/gallery/thumbnails/Turbinicarpus_krainzianus.JPG
+  title: Turbinicarpus krainzianus
+  caption: >
+    Turbinicarpus krainzianus
+- img: Turbinicarpus_krainzianus_minimus.JPG
+  url: /assets/gallery/thumbnails/Turbinicarpus_krainzianus_minimus.JPG
+  title: Turbinicarpus krainzianus minimus
+  caption: >
+    Turbinicarpus krainzianus minimus
 - img: Turbinicarpus_swobodae.JPG
   url: /assets/gallery/thumbnails/Turbinicarpus_swobodae.JPG
   title: Turbinicarpus swobodae
