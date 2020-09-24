@@ -178,16 +178,11 @@
   title: Sedum hintonii
   caption: >
     Sedum hintonii
-- img: Senecio
-  url: /assets/gallery/thumbnails/Senecio
-  title: Senecio
+- img: Senecio_mweroensis.JPG
+  url: /assets/gallery/thumbnails/Senecio_mweroensis.JPG
+  title: Senecio mweroensis
   caption: >
-    Senecio
-- img: mweroensis.JPG
-  url: /assets/gallery/thumbnails/mweroensis.JPG
-  title: mweroensis
-  caption: >
-    mweroensis
+    Senecio mweroensis
 - img: Sulcorebutia_aranacea.JPG
   url: /assets/gallery/thumbnails/Sulcorebutia_aranacea.JPG
   title: Sulcorebutia aranacea
