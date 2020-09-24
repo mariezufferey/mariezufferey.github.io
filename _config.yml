@@ -60,6 +60,7 @@ header_pages:
 # - resources.md
 # - notes.md
  - contact.md
+ - cv.md
 
 
 # Build settings

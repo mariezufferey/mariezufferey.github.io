@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Marie Zufferey
+zufferey\[dot\]marie\[at\]bluewin\[dot\]ch
 
 
 Lausanne

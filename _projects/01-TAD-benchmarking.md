@@ -5,7 +5,7 @@ collaborators: Marie Zufferey
 past: false
 ---
 
-### Benchmarking of TAD callers
+### Comparison of TAD calling methods
 
 - [publication](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1596-9)
 - [code](https://github.com/CSOgroup/TAD-benchmarking-scripts)
