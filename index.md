@@ -6,7 +6,7 @@ permalink: /
 
 <!-- # Marie Zufferey -->
 
-- [other blog](http://mzuer.github.io) with programming stuff
+- [other blog](http://mzuer.github.io) with programming and bioinformatics stuff
 - [other blog](http://marzuf.github.io) with machine learning stuff (not yet available - in construction)
 - [other blog](http://ideesdurables.github.io) with gardening stuff (in construction)
 
