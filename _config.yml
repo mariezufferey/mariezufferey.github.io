@@ -25,7 +25,7 @@ url: "https://mariezufferey.github.io" # the base hostname & protocol for your s
 #google_analytics: UA-111523331-1
 #twitter_username: guiwitz
 github_username:  mariezufferey
-#linkedin_username: guillaumewitz
+linkedin_username: marie-zufferey
 
 collections:
 - projects

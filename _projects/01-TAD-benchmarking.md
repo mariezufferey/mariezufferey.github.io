@@ -1,11 +1,14 @@
 ---
-title: Example current project
+title: Benchmark of TAD callers
 # vignette: [[jonathan’s movies??]]
 collaborators: Marie Zufferey
 past: false
 ---
 
-Example of a current project
+### Benchmarking of TAD callers
+
+- [publication](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1596-9)
+- [code](https://github.com/CSOgroup/TAD-benchmarking-scripts)
 
 <!--
 ![My screenshot]({{ "/assets/projects/segmentation.png" | absolute_url}}){:height="500px" width="500px"}..
