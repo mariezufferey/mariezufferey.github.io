@@ -5,8 +5,8 @@ collaborators: Marie Zufferey
 past: false
 ---
 
-Online tool for comparing genome partition into TADs 
+Tool for comparing genome partition into TADs 
 
-https://comparetadpartitions.shinyapps.io/tadcomp/
+- [online Shiny application]( https://comparetadpartitions.shinyapps.io/tadcomp/)
 
 (2019)
